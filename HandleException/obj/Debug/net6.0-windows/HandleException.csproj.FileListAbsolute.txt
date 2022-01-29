@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\bin\Debug\net6.0-windows\HandleException.exe
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\bin\Debug\net6.0-windows\HandleException.deps.json
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\bin\Debug\net6.0-windows\HandleException.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\bin\Debug\net6.0-windows\HandleException.dll
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\bin\Debug\net6.0-windows\ref\HandleException.dll
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\bin\Debug\net6.0-windows\HandleException.pdb
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\obj\Debug\net6.0-windows\HandleException.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\obj\Debug\net6.0-windows\HandleException.Form1.resources
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\obj\Debug\net6.0-windows\HandleException.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\obj\Debug\net6.0-windows\HandleException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\obj\Debug\net6.0-windows\HandleException.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\obj\Debug\net6.0-windows\HandleException.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\obj\Debug\net6.0-windows\HandleException.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\obj\Debug\net6.0-windows\HandleException.dll
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\obj\Debug\net6.0-windows\ref\HandleException.dll
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\obj\Debug\net6.0-windows\HandleException.pdb
+C:\Users\ASUS\Desktop\Projects\C#\HandleException\HandleException\obj\Debug\net6.0-windows\HandleException.genruntimeconfig.cache
